@@ -12,7 +12,8 @@
 * ⚛️ React JS & Redux
 * 🌐 HTML5, CSS3, JavaScript (ES6+)
 * 🎨 Bootstrap, diseño responsive
-* 🛠️ Node.js (conceptos básicos de backend)
+* 🛠️ Node.js
+* 📦 npm
 * 🧰 Git & GitHub
 * 🖥️ VSCode
 
