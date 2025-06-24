@@ -4,14 +4,7 @@
 const felipe = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Styled-Components, Bootstrap],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  tools: [React, Redux, Node, Styled-Components, Bootstrap]
 }
 ```
 
