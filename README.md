@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+```javascript
+const felipe = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Redux, Node, Styled-Components, Bootstrap],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "RailsGirls POA"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
 <!--
 **felipeaugustoap/felipeaugustoap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
